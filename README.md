@@ -4,8 +4,8 @@ Handwritten character recognition is still an active area of research due to the
 
 
 The input dataset format should be in the following form.
-
-rain
+<p>
+train
   |_ folder_name1/*.bmp/jpg/png
   |_ folder_name2/*.bmp/jpg/png
   |_ folder_name3/*.bmp/jpg/png
@@ -24,13 +24,20 @@ test
         .
   |_ folder_name10/*.bmp/jpg/png
   
-  
+ </p> 
   <p align="center">
   <table style="width:100%" table>
   <tr>
-    <th><img images/src="num1.bmp" width="10" height="10"/></th>
-    <th><img images/src="num1.bmp" width="10" height="10"/></th> 
-    <th><img images/src="num1.bmp" width="10" height="10"/></th>
+    <th><img images/src="zero.bmp" width="10" height="10"/></th>
+    <th><img images/src="one.bmp" width="10" height="10"/></th> 
+    <th><img images/src="two.bmp" width="10" height="10"/></th>
+    <th><img images/src="three.bmp" width="10" height="10"/></th>
+    <th><img images/src="four.bmp" width="10" height="10"/></th> 
+    <th><img images/src="five.bmp" width="10" height="10"/></th>
+    <th><img images/src="six.bmp" width="10" height="10"/></th>
+    <th><img images/src="seven.bmp" width="10" height="10"/></th> 
+    <th><img images/src="eight.bmp" width="10" height="10"/></th>
+    <th><img images/src="nine.bmp" width="10" height="10"/></th>    
   </tr>
 </table>
 </p>
