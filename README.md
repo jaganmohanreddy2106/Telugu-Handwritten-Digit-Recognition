@@ -29,16 +29,16 @@ test
   <p align="center">
   <table style="width:100%" table>
   <tr>
-    <th><img src="images/zero.bmp" width="10" height="10"/></th>
-    <th><img src="images/one.bmp" width="10" height="10"/></th> 
-    <th><img src="images/two.bmp" width="10" height="10"/></th>
-    <th><img src="images/three.bmp" width="10" height="10"/></th>
-    <th><img src="images/four.bmp" width="10" height="10"/></th> 
-    <th><img src="images/five.bmp" width="10" height="10"/></th>
-    <th><img src="images/six.bmp" width="10" height="10"/></th>
-    <th><img src="images/seven.bmp" width="10" height="10"/></th> 
-    <th><img src="images/eight.bmp" width="10" height="10"/></th>
-    <th><img src="images/nine.bmp" width="10" height="10"/></th>    
+    <th><img src="images/zero.bmp" width="30" height="30"/></th>
+    <th><img src="images/one.bmp" width="30" height="30"/></th> 
+    <th><img src="images/two.bmp" width="30" height="30"/></th>
+    <th><img src="images/three.bmp" width="30" height="30"/></th>
+    <th><img src="images/four.bmp" width="30" height="30"/></th> 
+    <th><img src="images/five.bmp" width="30" height="30"/></th>
+    <th><img src="images/six.bmp" width="30" height="30"/></th>
+    <th><img src="images/seven.bmp" width="30" height="30"/></th> 
+    <th><img src="images/eight.bmp" width="30" height="30"/></th>
+    <th><img src="images/nine.bmp" width="30" height="30"/></th>    
   </tr>
 </table>
 </p>
