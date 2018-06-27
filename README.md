@@ -2,7 +2,7 @@
 
 Handwritten character recognition is still an active area of research due to the fact that numerous verification in writing style, shapes, size to individuals. The challenging part of Indian handwritten character recognition comes from the distinction between the similar shaped characters. Sometimes, a minuscule part distinguishes between two characters or numerals. These small distinguishing parts increase the recognition complexity. Given the writing styles of different individuals, the same characters may take different shapes, and two or more different characters may take a similar shape. These factors also increase the complexity of handwritten character recognition. We will now briefly review the few important works done towards handwritten character recognition with references to the Indian language script. 
 </br></br></br>
-<h3>This project developed in Python using PyTorch - Deep Learning library.</h3>
+<h3>This project developed in Python using <a href="https://pytorch.org/tutorials/">PyTorch - Deep Learning library.</a> </h3>
 </br></br></br>
 The input dataset format should be in the following form.
 <p>
