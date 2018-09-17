@@ -30,8 +30,8 @@ test
   <p align="center">
   <table style="width:100%" align="center">
   <tr>
-    <th><img src="images/zero.bmp" width="30" height="30"/></th>
-    <th><img src="images/one.bmp" width="30" height="30"/></th> 
+    <th><img src="images/one.bmp" width="30" height="30"/></th>
+    <th><img src="images/zero.bmp" width="30" height="30"/></th>     
     <th><img src="images/two.bmp" width="30" height="30"/></th>
     <th><img src="images/three.bmp" width="30" height="30"/></th>
     <th><img src="images/four.bmp" width="30" height="30"/></th> 
